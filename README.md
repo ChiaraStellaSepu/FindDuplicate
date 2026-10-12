@@ -1,5 +1,5 @@
 # FindDuplicate
-Fun HTML game to find duplicate!
+## Fun HTML game to find duplicate!
 
 ## Animal Emojis!
 - https://heldersepu.github.io/FindDuplicate/#animals
